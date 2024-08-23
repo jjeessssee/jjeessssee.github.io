@@ -5,4 +5,8 @@ date:   2024-08-22 13:00:00 -0700
 categories: plot post
 ---
 
-<iframe src="/_posts/plot.html" width="100%" height="600px"></iframe>
+Here is an example plot.
+
+{% include example_plot.html %}
+
+That was an example plot.
