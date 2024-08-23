@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Post"
-date:   2024-08-22 12:00:00 -0700
-categories: first post
+title:  "Plot Post"
+date:   2024-08-22 19:00:00 -0700
+categories: plot post
 ---
 
-<iframe src="/Users/jmudrick/Desktop/projects/random/plot.html" width="100%" height="600px"></iframe>
+<iframe src="/assets/plots/plot.html" width="100%" height="600px"></iframe>
