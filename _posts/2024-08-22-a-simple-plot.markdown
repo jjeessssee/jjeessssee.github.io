@@ -7,6 +7,6 @@ categories: plot post
 
 Here is an example plot.
 
-{% include example_plot.html %}
+{% include plot.html %}
 
 That was an example plot.
